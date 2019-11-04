@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Adilson Manuel\\Documents\\C# CURSO\\aula8_constante\\aula8_constante\\aula8_constante.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Adilson Manuel\\Documents\\C# CURSO\\aula8_constante\\aula8_constante\\aula8_constante.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adilson Manuel\\Documents\\C# CURSO\\aula8_constante\\aula8_constante\\aula8_constante.csproj",
+        "projectName": "aula8_constante",
+        "projectPath": "C:\\Users\\Adilson Manuel\\Documents\\C# CURSO\\aula8_constante\\aula8_constante\\aula8_constante.csproj",
+        "packagesPath": "C:\\Users\\Adilson Manuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adilson Manuel\\Documents\\C# CURSO\\aula8_constante\\aula8_constante\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Adilson Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

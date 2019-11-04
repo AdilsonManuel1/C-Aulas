@@ -1,0 +1,11 @@
+C:\Users\Adilson Manuel\Documents\C# CURSO\LOOP\LOOP\bin\Debug\netcoreapp3.0\LOOP.exe
+C:\Users\Adilson Manuel\Documents\C# CURSO\LOOP\LOOP\bin\Debug\netcoreapp3.0\LOOP.deps.json
+C:\Users\Adilson Manuel\Documents\C# CURSO\LOOP\LOOP\bin\Debug\netcoreapp3.0\LOOP.runtimeconfig.json
+C:\Users\Adilson Manuel\Documents\C# CURSO\LOOP\LOOP\bin\Debug\netcoreapp3.0\LOOP.runtimeconfig.dev.json
+C:\Users\Adilson Manuel\Documents\C# CURSO\LOOP\LOOP\bin\Debug\netcoreapp3.0\LOOP.dll
+C:\Users\Adilson Manuel\Documents\C# CURSO\LOOP\LOOP\bin\Debug\netcoreapp3.0\LOOP.pdb
+C:\Users\Adilson Manuel\Documents\C# CURSO\LOOP\LOOP\obj\Debug\netcoreapp3.0\LOOP.csprojAssemblyReference.cache
+C:\Users\Adilson Manuel\Documents\C# CURSO\LOOP\LOOP\obj\Debug\netcoreapp3.0\LOOP.AssemblyInfoInputs.cache
+C:\Users\Adilson Manuel\Documents\C# CURSO\LOOP\LOOP\obj\Debug\netcoreapp3.0\LOOP.AssemblyInfo.cs
+C:\Users\Adilson Manuel\Documents\C# CURSO\LOOP\LOOP\obj\Debug\netcoreapp3.0\LOOP.dll
+C:\Users\Adilson Manuel\Documents\C# CURSO\LOOP\LOOP\obj\Debug\netcoreapp3.0\LOOP.pdb

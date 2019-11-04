@@ -1,0 +1,11 @@
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula6\aula6\bin\Debug\netcoreapp3.0\aula6.exe
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula6\aula6\bin\Debug\netcoreapp3.0\aula6.deps.json
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula6\aula6\bin\Debug\netcoreapp3.0\aula6.runtimeconfig.json
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula6\aula6\bin\Debug\netcoreapp3.0\aula6.runtimeconfig.dev.json
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula6\aula6\bin\Debug\netcoreapp3.0\aula6.dll
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula6\aula6\bin\Debug\netcoreapp3.0\aula6.pdb
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula6\aula6\obj\Debug\netcoreapp3.0\aula6.csprojAssemblyReference.cache
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula6\aula6\obj\Debug\netcoreapp3.0\aula6.AssemblyInfoInputs.cache
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula6\aula6\obj\Debug\netcoreapp3.0\aula6.AssemblyInfo.cs
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula6\aula6\obj\Debug\netcoreapp3.0\aula6.dll
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula6\aula6\obj\Debug\netcoreapp3.0\aula6.pdb

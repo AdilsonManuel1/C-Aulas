@@ -1,0 +1,11 @@
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula8_constante\aula8_constante\bin\Debug\netcoreapp3.0\aula8_constante.exe
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula8_constante\aula8_constante\bin\Debug\netcoreapp3.0\aula8_constante.deps.json
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula8_constante\aula8_constante\bin\Debug\netcoreapp3.0\aula8_constante.runtimeconfig.json
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula8_constante\aula8_constante\bin\Debug\netcoreapp3.0\aula8_constante.runtimeconfig.dev.json
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula8_constante\aula8_constante\bin\Debug\netcoreapp3.0\aula8_constante.dll
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula8_constante\aula8_constante\bin\Debug\netcoreapp3.0\aula8_constante.pdb
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula8_constante\aula8_constante\obj\Debug\netcoreapp3.0\aula8_constante.csprojAssemblyReference.cache
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula8_constante\aula8_constante\obj\Debug\netcoreapp3.0\aula8_constante.AssemblyInfoInputs.cache
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula8_constante\aula8_constante\obj\Debug\netcoreapp3.0\aula8_constante.AssemblyInfo.cs
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula8_constante\aula8_constante\obj\Debug\netcoreapp3.0\aula8_constante.dll
+C:\Users\Adilson Manuel\Documents\C# CURSO\aula8_constante\aula8_constante\obj\Debug\netcoreapp3.0\aula8_constante.pdb
