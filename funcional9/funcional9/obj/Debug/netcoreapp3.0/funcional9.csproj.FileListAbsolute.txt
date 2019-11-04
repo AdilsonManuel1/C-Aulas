@@ -1,0 +1,11 @@
+C:\Users\Adilson Manuel\Documents\C# CURSO\funcional9\funcional9\bin\Debug\netcoreapp3.0\funcional9.exe
+C:\Users\Adilson Manuel\Documents\C# CURSO\funcional9\funcional9\bin\Debug\netcoreapp3.0\funcional9.deps.json
+C:\Users\Adilson Manuel\Documents\C# CURSO\funcional9\funcional9\bin\Debug\netcoreapp3.0\funcional9.runtimeconfig.json
+C:\Users\Adilson Manuel\Documents\C# CURSO\funcional9\funcional9\bin\Debug\netcoreapp3.0\funcional9.runtimeconfig.dev.json
+C:\Users\Adilson Manuel\Documents\C# CURSO\funcional9\funcional9\bin\Debug\netcoreapp3.0\funcional9.dll
+C:\Users\Adilson Manuel\Documents\C# CURSO\funcional9\funcional9\bin\Debug\netcoreapp3.0\funcional9.pdb
+C:\Users\Adilson Manuel\Documents\C# CURSO\funcional9\funcional9\obj\Debug\netcoreapp3.0\funcional9.csprojAssemblyReference.cache
+C:\Users\Adilson Manuel\Documents\C# CURSO\funcional9\funcional9\obj\Debug\netcoreapp3.0\funcional9.AssemblyInfoInputs.cache
+C:\Users\Adilson Manuel\Documents\C# CURSO\funcional9\funcional9\obj\Debug\netcoreapp3.0\funcional9.AssemblyInfo.cs
+C:\Users\Adilson Manuel\Documents\C# CURSO\funcional9\funcional9\obj\Debug\netcoreapp3.0\funcional9.dll
+C:\Users\Adilson Manuel\Documents\C# CURSO\funcional9\funcional9\obj\Debug\netcoreapp3.0\funcional9.pdb
